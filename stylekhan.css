@@ -1,0 +1,244 @@
+
+
+body{
+  margin:0px;     
+}
+.navbar1 {
+       height:50px;   
+       width: 100%; 
+       background-color:black;
+       margin: 0px;
+       border-bottom: 1px solid black;     
+
+}
+#navbar{
+       align-items:center;
+}
+
+.menu-container1 {
+       float:left;
+       height:inherit;
+       background-color: white;
+}
+#menu-container{
+      text-align:center;  
+       
+}
+.navbar1 a{
+       text-align: center;
+       color: blue;
+       font-size: 20px;
+       padding: 20px;
+       font-family:Georgia, 'Times New Roman', Times, serif;
+       text-decoration: none;     
+}
+.selectmenu1, ::placeholder {
+       color:blue;
+       font-size:18px;
+}
+
+#khanacademy{
+  color:black;
+  padding-left: 300px;
+  padding-right: 150px;
+  font-size: 30px;   
+}
+/* 
+form {
+       color:blue;
+} */
+
+.khannewsheader {
+    clear: both;
+    overflow: auto;
+    margin-top:10px; 
+    
+}
+.khanimagecontainer{
+     
+}
+
+.khanimage1 {
+       
+       clear: both;
+       float:left;
+       margin-left: 5%;
+       
+       }
+
+.khanstudentnews{
+       float:left;
+       padding: 5%;  
+}
+.khanstudentnews h1{
+       font-size: 60px;
+}
+.khanstudentnews p, .btn{
+       font-size: 20px;
+}
+.khanbtncontainer{
+       margin-top: 20px;
+}
+.btn {
+       height: 46px;
+       width:120px ;
+       background-color:blue;
+       color: white;
+}
+
+.whykhanacademyheader {
+       clear: both; 
+       width: 100%;
+       background-color:white;
+       margin-top:50px;
+       
+}
+
+.whykhanacademy h1 {
+       text-align: center;
+       font-size: 60px
+        
+}
+
+.personlized {
+       float: left;
+       background-color:white;
+       width:30%; 
+       margin-top: 50px;       
+}
+
+.personlized img{
+
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+}
+
+.personlized h2, p{
+       text-align: center;
+}
+
+.trusted {
+       float: left;
+       background-color:white;
+       width:30%;
+       margin-top: 50px;  
+}
+
+.trusted p, h2 {
+ text-align: center;    
+}
+.trusted img{
+display: block;
+margin-left: auto;
+margin-right: auto; 
+}
+.tools {
+float: right;
+background-color: white;
+width:40%;
+margin-top: 50px;  
+}
+
+.tools p, h2{
+text-align: center;
+}
+.tools img{
+display: block;
+margin-left: auto;
+margin-right: auto; 
+}
+
+.khanteacherheader {
+       clear: both; 
+       overflow: auto;
+       width: 100%;
+       background-color:white;
+       margin-top: 100px;  
+}
+
+.khanteacherimage {
+     float: left;  
+}
+
+.khanteacher {
+       float:left;
+       padding: 2%;      
+}
+.khanteacher h3, h5, p {
+text-align: start; 
+}
+.khanteacher h1{
+       font-size: 60px;
+}
+.khanteacher p, .btn{
+       font-size: 20px;
+}
+.khanteacher button{
+       height: 46px;
+       width:200px ;
+}
+.khanheadelearners {
+       clear: both; 
+       overflow: auto;
+       width: 100%;
+       background-color:white;
+       margin-top: 50px;  
+}
+
+.khanlearners {
+      float: left; 
+      padding: 5%;
+      background-color: white;
+}
+
+.khanlearnerimage {
+       float: right;
+       margin-top: 0px;
+       
+}
+
+.khanlearners {
+float:left;
+padding: 4%;
+height:inherit;    
+}
+
+.khanlearners h3, p {
+text-align: start; 
+}
+.khanlearners h1{
+       font-size: 60px;
+}
+.khanlearners p, .btn{
+       font-size: 20px;
+}
+.khanlearners button{
+       height: 46px;
+       width:200px ;
+}
+
+.joinkhanacademy {
+       background-color:white;
+       width: 100%;
+       
+}
+.joinkhanacademy h1{
+text-align: center;
+font-size: 60px;
+}
+
+.joinkhanacademy button {
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 60px;
+width: 400px;
+margin-top: 10px;
+}
+
+
+
+
+
+ 
